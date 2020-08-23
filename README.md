@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-```
-![Visitor Count](https : //profile-counter.glitch.me/leander-dsouza/count.svg)
-```
-
-[![HitCount](http://hits.dwyl.com/leander-dsouza/https://githubcom/leander-dsouza/leander-dsouza.svg)](http://hits.dwyl.com/leander-dsouza/https://githubcom/leander-dsouza/leander-dsouza)
 
 
 I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, just for not the reasons you think. It's just because my name acronym spells out a psychedelic drug.
@@ -34,3 +29,5 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 
 
 ### Profile Badges
+
+![](https://komarev.com/ghpvc/?username=your-github-leander-dsouza)
