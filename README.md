@@ -65,8 +65,6 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v74jewqxwmvdlxxaxrrr5zq67e&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 ###### 💾 EOF
