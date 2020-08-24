@@ -49,6 +49,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 ### Skills:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=plastic&logo=c&logoColor=white"/>
 <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white"></a>
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=LaTeX&logoColor=white"></a>
@@ -64,7 +65,12 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=plastic&logo=Keras&logoColor=white"/>
 
+
+
+### Spotify Playing 🎧
+[<img src="https://novatorem-indol.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31v74jewqxwmvdlxxaxrrr5zq67e)
 
 
 ###### 💾 EOF
