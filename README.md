@@ -2,7 +2,7 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
-I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons you may think. It's just because my name acronym spells out a psychedelic drug.
+I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons you may think. It's just because my name acronym spells out a psychedelic drug..
 
 
 That being said, I'm a robotics and tech enthusiast. I love working on projects that inspire me and motivate me in developing innovative/disruptive solutions.
