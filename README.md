@@ -71,7 +71,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.leander-dsouza.vercel.app/api/spotify" alt="Spotify Playing" width="1500" height="300" />](https://open.spotify.com/user/31v74jewqxwmvdlxxaxrrr5zq67e)
+[<img src="https://novatorem.leander-dsouza.vercel.app/api/spotify" alt="Spotify Playing" width="900" height="260" />](https://open.spotify.com/user/31v74jewqxwmvdlxxaxrrr5zq67e)
 
 
 ###### 💾 EOF
