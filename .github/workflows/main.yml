@@ -39,8 +39,6 @@ jobs:
       with:
     # Personal access token with `read:user` scope and optional `repo` scope
         token: cd1d3ddf109cb82d20ef7c63e7c9c0744f82c74f
-    # Path to template file
-        template: ./TEMPLATE.md
     # Path to generated file
         readme:  ./README.md
         
