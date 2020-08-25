@@ -40,17 +40,20 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=LaTeX&logoColor=white">
 
-
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-
+<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white">
 
 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
+
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=fplastic&logo=Raspberry-Pi)
 
+
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white">
+
 
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=plastic&logo=Keras&logoColor=white"/>
 
