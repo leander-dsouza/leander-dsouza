@@ -16,8 +16,8 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 
 ![](https://komarev.com/ghpvc/?username=your-github-leander-dsouza)
 
-![Github Stats](https://github-readme-stats-pied-theta.vercel.app/api?username=leander-dsouza&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-pied-theta.vercel.app/api/top-langs/?username=leander-dsouza&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.leander-dsouza.vercel.app/api?username=leander-dsouza&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.leander-dsouza.vercel.app/api/top-langs/?username=leander-dsouza&hide=TeX&layout=compact)
 
 
 ### Social and Professional Reach:
