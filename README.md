@@ -36,12 +36,13 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=plastic&logo=c&logoColor=white"/>
-<a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white"></a>
+<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=LaTeX&logoColor=white">
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white">
+<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=plastic&logo=PyCharm">
+<img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-000000?style=plastic&logo=Sublime-Text">
 
 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -49,10 +50,12 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=fplastic&logo=Raspberry-Pi)
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white">
 
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white">
+<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=Windows&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=plastic&logo=Keras&logoColor=white"/>
