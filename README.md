@@ -30,6 +30,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 [![Instagram Badge](https://img.shields.io/badge/-lsd____________-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/lsd____________/?hl=en)](https://www.instagram.com/lsd____________/?hl=en)
 [![Facebook Badge](https://img.shields.io/badge/-leanderdsouza22-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/leanderdsouza22)](https://www.facebook.com/leanderdsouza22)
 [![Twitter Badge](https://img.shields.io/badge/-LeanderStephen3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/LeanderStephen3)](https://twitter.com/LeanderStephen3)
+[![Reddit Badge](https://img.shields.io/badge/-leanderLSD-FF4500?style=fplastic&logo=Reddit&logoColor=white)](https://www.reddit.com/user/leanderLSD)
 
 
 ### Skills:
