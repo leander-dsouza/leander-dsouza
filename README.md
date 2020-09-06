@@ -2,11 +2,11 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
-I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons you may think. It's just because my name acronym spells out a psychedelic drug.
+I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons, you may think. It's just because my name acronym spells out a psychedelic drug.
 
 
 That being said, I'm a robotics and tech enthusiast. I love working on projects that inspire me and motivate me in developing innovative/disruptive solutions.
-I'm proficient in Image Processing and ROS 🤖. My dream is to contribute in the fields of mobile robotics.
+I'm proficient in Image Processing and ROS 🤖. My dream is to contribute to the fields of mobile robotics.
 
 
 As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute of Technology](https://manipal.edu/mit.html). I will have graduated in the year 2022.
@@ -28,7 +28,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 [![Reddit Badge](https://img.shields.io/badge/-leanderLSD-FF4500?style=plastic&logo=Reddit&logoColor=white)](https://www.reddit.com/user/leanderLSD)
 [![Discord Badge](https://img.shields.io/badge/-LSD%233237-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.gg/h6YGr56)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leander%20Stephen%20D'Souza-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsd/)](https://www.linkedin.com/in/lsd/)
+[![Linkedin Badge](https://img.shields.io/badge/-Leander%20Stephen%20D'Souza-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lsd/)
 [![Gmail Badge](https://img.shields.io/badge/-leanderdsouza1234@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:leanderdsouza1234@gmail.com)](mailto:leanderdsouza1234@gmail.com)
 [![HackerRank Badge](https://img.shields.io/badge/leanderdsouza121-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/leanderdsouza121)
 [![Kaggle Badge](https://img.shields.io/badge/-leanderstephendsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/leanderstephendsouza)
