@@ -31,8 +31,9 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 [![Linkedin Badge](https://img.shields.io/badge/-Leander%20Stephen%20D'Souza-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsd/)](https://www.linkedin.com/in/lsd/)
 [![Gmail Badge](https://img.shields.io/badge/-leanderdsouza1234@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:leanderdsouza1234@gmail.com)](mailto:leanderdsouza1234@gmail.com)
 [![HackerRank Badge](https://img.shields.io/badge/leanderdsouza121-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/leanderdsouza121)
-<!--[![GitHub Badge](https://img.shields.io/badge/-leander--dsouza-181717?style=plastic&logo=github)](https://github.com/leander-dsouza)-->
 [![Kaggle Badge](https://img.shields.io/badge/-leanderstephendsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/leanderstephendsouza)
+<!--[![GitHub Badge](https://img.shields.io/badge/-leander--dsouza-181717?style=plastic&logo=github)](https://github.com/leander-dsouza)-->
+
 
 ### Skills:
 
