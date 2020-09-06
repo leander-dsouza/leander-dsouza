@@ -22,16 +22,17 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 
 ### Social and Professional Reach:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leander%20Stephen%20D'Souza-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsd/)](https://www.linkedin.com/in/lsd/)
-[![Gmail Badge](https://img.shields.io/badge/-leanderdsouza1234@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:leanderdsouza1234@gmail.com)](mailto:leanderdsouza1234@gmail.com)
-[![HackerRank Badge](https://img.shields.io/badge/leanderdsouza121-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/leanderdsouza121) 
-
-
 [![Instagram Badge](https://img.shields.io/badge/-lsd____________-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/lsd____________/?hl=en)](https://www.instagram.com/lsd____________/?hl=en)
 [![Facebook Badge](https://img.shields.io/badge/-leanderdsouza22-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/leanderdsouza22)](https://www.facebook.com/leanderdsouza22)
 [![Twitter Badge](https://img.shields.io/badge/-LeanderStephen3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/LeanderStephen3)](https://twitter.com/LeanderStephen3)
-[![Reddit Badge](https://img.shields.io/badge/-leanderLSD-FF4500?style=fplastic&logo=Reddit&logoColor=white)](https://www.reddit.com/user/leanderLSD)
+[![Reddit Badge](https://img.shields.io/badge/-leanderLSD-FF4500?style=plastic&logo=Reddit&logoColor=white)](https://www.reddit.com/user/leanderLSD)
+[![Discord Badge](https://img.shields.io/badge/-LSD%233237-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.gg/h6YGr56)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Leander%20Stephen%20D'Souza-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsd/)](https://www.linkedin.com/in/lsd/)
+[![Gmail Badge](https://img.shields.io/badge/-leanderdsouza1234@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:leanderdsouza1234@gmail.com)](mailto:leanderdsouza1234@gmail.com)
+[![HackerRank Badge](https://img.shields.io/badge/leanderdsouza121-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/leanderdsouza121)
+<!--[![GitHub Badge](https://img.shields.io/badge/-leander--dsouza-181717?style=plastic&logo=github)](https://github.com/leander-dsouza)-->
+[![Kaggle Badge](https://img.shields.io/badge/-leanderstephendsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/leanderstephendsouza)
 
 ### Skills:
 
