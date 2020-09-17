@@ -11,6 +11,7 @@ I'm proficient in Image Processing and ROS 🤖. My dream is to contribute to th
 
 As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute of Technology](https://manipal.edu/mit.html). I will have graduated in the year 2022.
 
+---
 
 ### Profile Stats
 
@@ -19,7 +20,21 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 ![Github Stats](https://github-readme-stats-drab-delta.vercel.app/api?username=leander-dsouza&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=leander-dsouza&hide=TeX&layout=compact&theme=radical)
 
+---
 
+### Popular Repositories
+
+<a href="https://github.com/leander-dsouza/Gazebo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leander-dsouza&repo=Gazebo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+---
+
+<a href="https://github.com/leander-dsouza/Google_Foobar_2020">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=leander-dsouza&repo=Google_Foobar_2020&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+---
 ### Social and Professional Reach:
 
 [![Instagram Badge](https://img.shields.io/badge/-lsd____________-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/lsd____________/?hl=en)](https://www.instagram.com/lsd____________/?hl=en)
@@ -34,7 +49,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 [![Kaggle Badge](https://img.shields.io/badge/-leanderstephendsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/leanderstephendsouza)
 <!--[![GitHub Badge](https://img.shields.io/badge/-leander--dsouza-181717?style=plastic&logo=github)](https://github.com/leander-dsouza)-->
 
-
+---
 ### Skills:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
@@ -64,7 +79,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=plastic&logo=Keras&logoColor=white"/>
 
 
-
+---
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem.leander-dsouza.vercel.app/api/spotify" alt="Spotify Playing" width="900" height="250" />](https://open.spotify.com/user/31v74jewqxwmvdlxxaxrrr5zq67e)
