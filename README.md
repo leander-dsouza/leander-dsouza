@@ -55,7 +55,6 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=plastic&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=LaTeX&logoColor=white">
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
