@@ -66,7 +66,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=fplastic&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white">
 
 
@@ -76,7 +76,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 
 
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=plastic&logo=Keras&logoColor=white"/>
-
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=plastic&logo=ROS)
 
 ---
 ### Spotify Playing 🎧
