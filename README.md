@@ -1,5 +1,5 @@
 ## Greetings! 👋
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/leander-dsouza/leander-dsouza/blob/master/LICENSE)
 
 
 I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons, you may think. It's just because my name acronym spells out a psychedelic drug.
