@@ -27,7 +27,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 </br>
 
 <a href="https://github.com/leander-dsouza/Atreus">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leander-dsouza&repo=Gazebo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leander-dsouza&repo=Atreus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ---
