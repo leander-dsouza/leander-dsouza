@@ -98,6 +98,7 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=plastic&logo=Keras&logoColor=white) 
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=plastic&logo=ROS)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=plastic&logo=Unity)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=plastic&logo=Docker)
 ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E37?style=plastic&logo=ngrok)
 
