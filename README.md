@@ -2,7 +2,7 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/leander-dsouza/leander-dsouza/blob/master/LICENSE)
 
 
-I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons, you may think. It's just because my name acronym spells out a psychedelic drug.
+I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons, you may think. It's just that the acronym of my name spells out a psychedelic drug.
 
 
 That being said, I'm a robotics and tech enthusiast. I love working on projects that inspire me and motivate me in developing innovative/disruptive solutions.
@@ -26,14 +26,14 @@ As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute 
 ### Popular Repositories
 </br>
 
-<a href="https://github.com/leander-dsouza/Atreus">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=leander-dsouza&repo=Atreus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/blackcoffeerobotics/emojicloud_plugin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcoffeerobotics&repo=emojicloud_plugin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ---
 
-<a href="https://github.com/leander-dsouza/Google_Foobar_2020">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=leander-dsouza&repo=Google_Foobar_2020&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/leander-dsouza/Atreus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leander-dsouza&repo=Atreus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ---
