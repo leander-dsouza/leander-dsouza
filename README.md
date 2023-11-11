@@ -1,15 +1,19 @@
 ## Greetings! 👋
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/leander-dsouza/leander-dsouza/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons, you may think. It's just that the acronym of my name spells out a psychedelic drug.
+I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons you may think. It's just that the acronym of my name spells out a psychedelic drug.
 
 
-That being said, I'm a robotics and tech enthusiast. I love working on projects that inspire me and motivate me in developing innovative/disruptive solutions.
-I'm proficient in Image Processing and ROS 🤖. My dream is to contribute to the fields of mobile robotics.
+That being said, I'm a robotics and tech enthusiast. I love working on projects that inspire me and motivate me to develop innovative/disruptive solutions.
+I'm proficient in ROS 🤖, Motion Planning and Image Processing. My dream is to contribute to the field of mobile robotics.
 
 
-As of now, I'm pursuing a B.Tech Degree in Mechatronics from [Manipal Institute of Technology](https://manipal.edu/mit.html). I will have graduated in the year 2022.
+I have graduated with a B.Tech Degree in Mechatronics from [Manipal Institute of Technology](https://manipal.edu/mit.html). Additionally, I have three years of experience working in a high-paced robotics startup - [Black Coffee Robotics](https://www.blackcoffeerobotics.com/), as a Robotics Engineer.
+
+As of now, I'm pursuing a MSc. Degree in Robotics from [University of Sheffield](https://www.sheffield.ac.uk/). I will have graduated in the year 2024.
+
+For more details, visit my website - [leanderstephendsouza.com](https://www.leanderstephendsouza.com/)
 
 ---
 
