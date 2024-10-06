@@ -9,9 +9,9 @@ That being said, I'm a robotics and tech enthusiast. I love working on projects 
 I'm proficient in ROS 🤖, Motion Planning and Image Processing. My dream is to contribute to the field of mobile robotics.
 
 
-I have graduated with a B.Tech Degree in Mechatronics from [Manipal Institute of Technology](https://manipal.edu/mit.html). Additionally, I have three years of experience working in a high-paced robotics startup - [Black Coffee Robotics](https://www.blackcoffeerobotics.com/), as a Robotics Engineer.
+I have graduated with a B.Tech Degree in Mechatronics from [Manipal Institute of Technology](https://manipal.edu/mit.html) and a MSc. Degree in Robotics from [University of Sheffield](https://www.sheffield.ac.uk/). Additionally, I have three years of experience working in a high-paced robotics startup - [Black Coffee Robotics](https://www.blackcoffeerobotics.com/), as a Robotics Engineer.
 
-As of now, I'm pursuing a MSc. Degree in Robotics from [University of Sheffield](https://www.sheffield.ac.uk/). I will have graduated in the year 2024.
+Currently, I am working as a Robotics Commissioning Engineer at [Dexory](https://www.dexory.com/).
 
 For more details, visit my website - [leanderstephendsouza.com](https://www.leanderstephendsouza.com/)
 
