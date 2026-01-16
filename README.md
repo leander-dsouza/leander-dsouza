@@ -11,7 +11,7 @@ I'm proficient in ROS 🤖, Motion Planning and Image Processing. My dream is to
 
 I have graduated with a B.Tech Degree in Mechatronics from [Manipal Institute of Technology](https://manipal.edu/mit.html) and a MSc. Degree in Robotics from [University of Sheffield](https://www.sheffield.ac.uk/). Additionally, I have three years of experience working in a high-paced robotics startup - [Black Coffee Robotics](https://www.blackcoffeerobotics.com/), as a Robotics Engineer.
 
-In addition, I have worked for about 6 months as a Robotics Commissioning Engineer at [Dexory](https://www.dexory.com/).
+Currently, I work as a Robotics Software Engineer at [Rosenxt](https://www.rosen-nxt.com/en).
 
 For more details, visit my website - [leanderstephendsouza.com](https://www.leanderstephendsouza.com/)
 
